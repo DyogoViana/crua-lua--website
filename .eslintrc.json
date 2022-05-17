@@ -71,10 +71,10 @@
         "react/jsx-filename-extension": [
             1,
             {
-                "extensions": [
-                    ".jsx",
-                    ".tsx"
-                ]
+					"extensions": [
+						".js",
+						".jsx"
+				  ]
             }
         ],
         "react/react-in-jsx-scope": "off",
